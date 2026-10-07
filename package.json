@@ -1,0 +1,17 @@
+{
+  "name": "html-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Progressive HTML exercises with automated DOM tests.",
+  "scripts": {
+    "test": "jest",
+    "test:solutions": "node scripts/run-solutions.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "jest": "29.7.0",
+    "jsdom": "24.1.3"
+  }
+}
