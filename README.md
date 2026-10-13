@@ -4,6 +4,32 @@ Hands-on HTML exercises for students who are learning to structure a web page. E
 
 The exercises are grouped into ten chapters. Each chapter is one subject from the course presentations, in teaching order. The environment-setup presentation (VS Code, Live Server, and extensions) is not a chapter here.
 
+## Google Classroom
+
+Assignments and class materials are in [Google Classroom](https://classroom.google.com/w/ODkxNzk1OTQwMDY3/t/all).
+
+## 🧪 Interactive Colab Labs
+
+Practice HTML directly in your browser with interactive exercises, live previews, and automated tests.
+
+### Lab 01 — HTML Fundamentals
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/morbargig/html-practice/blob/main/labs/lab-01-html-fundamentals.ipynb)
+
+Notebook: [labs/lab-01-html-fundamentals.ipynb](labs/lab-01-html-fundamentals.ipynb)
+
+Topics:
+
+- HTML document structure
+- Headings and paragraphs
+- Lists
+- Links and images
+- Semantic HTML
+- Final About Me exercise
+- Automated HTML validation
+
+Open the lab in Colab and select **File → Save a copy in Drive**. Work only on your own copy.
+
 ## Who it is for
 
 Students who are new to HTML and can open a folder in VS Code. You edit `index.html`. In [Link a Stylesheet](07-head-and-metadata/03-link-a-stylesheet/), you also connect a `style.css` file. You do not need a browser to run the tests.
