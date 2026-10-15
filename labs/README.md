@@ -24,11 +24,11 @@ Topics:
 
 ## Lab 02 — Advanced HTML & Native Interactivity
 
-**HTML Lesson 3: Beyond the Basics.** Build an interactive student portal with HTML only.
+**HTML Lesson 2: Beyond the Basics.** Build an interactive student portal with HTML only.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/morbargig/html-practice/blob/main/labs/lesson-03/Lab_02_Advanced_HTML_Native_Interactivity.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/morbargig/html-practice/blob/main/labs/lesson-02/Lab_02_Advanced_HTML_Native_Interactivity.ipynb)
 
-Notebook: [lesson-03/Lab_02_Advanced_HTML_Native_Interactivity.ipynb](lesson-03/Lab_02_Advanced_HTML_Native_Interactivity.ipynb)
+Notebook: [lesson-02/Lab_02_Advanced_HTML_Native_Interactivity.ipynb](lesson-02/Lab_02_Advanced_HTML_Native_Interactivity.ipynb)
 
 The notebook saves each exercise as an HTML file and previews it in Colab.
 
