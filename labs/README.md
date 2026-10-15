@@ -21,3 +21,21 @@ Topics:
 - Semantic HTML
 - Final About Me exercise
 - Automated HTML validation
+
+## Lab 02 — Advanced HTML & Native Interactivity
+
+**HTML Lesson 3: Beyond the Basics.** Build an interactive student portal with HTML only.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/morbargig/html-practice/blob/main/labs/lesson-03/Lab_02_Advanced_HTML_Native_Interactivity.ipynb)
+
+Notebook: [lesson-03/Lab_02_Advanced_HTML_Native_Interactivity.ipynb](lesson-03/Lab_02_Advanced_HTML_Native_Interactivity.ipynb)
+
+The notebook saves each exercise as an HTML file and previews it in Colab.
+
+- Attributes and advanced inputs
+- Fieldset, legend, and datalist
+- Details, popovers, and dialogs
+- Progress and meter
+- Final interactive student portal
+
+Colab's preview can restrict popovers and dialogs. Download the HTML file and open it in a current browser. The page uses HTML only.
