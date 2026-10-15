@@ -56,9 +56,8 @@ Leave these files as they are:
 - `lib/`
 - `package.json`, `package-lock.json`, and `jest.config.js`
 - `.github/workflows/tests.yml`
-- `solutions/`
 
-`solutions/` holds one finished page per practice so the tests themselves can be checked. Try the exercise before you open a solution.
+Finished pages are not in this branch. They are checked on `student/answers`.
 
 ## Install
 
@@ -94,12 +93,6 @@ One presentation:
 npm test -- practices/lesson-01
 ```
 
-Check the reference solutions:
-
-```bash
-npm run test:solutions
-```
-
 A failing practice test means that page is not finished. The message names the missing element or the text it expected, for example: `Expected the <h1> text to be "Hello World".`
 
 ## Work on one exercise
@@ -118,16 +111,13 @@ You can also open `index.html` with Live Server in VS Code. The tests do not nee
 
 ## GitHub Actions
 
-`.github/workflows/tests.yml` runs on every push and pull request. It checks out the repository, installs Node.js 24, installs dependencies, and runs the tests.
-
-Two jobs run:
+`.github/workflows/tests.yml` runs on every push and pull request. It checks out the repository, installs Node.js 24, installs dependencies, and runs the practice tests.
 
 | Job | What it checks |
 | --- | --- |
 | Practice exercises | Your `index.html` files inside `practices/lesson-01/` and `practices/lesson-02/` |
-| Reference solutions | The pages in `solutions/` |
 
-The practice job stays red until the exercises are solved. The reference job should stay green. That second job tells you the tests still describe the tasks correctly.
+The practice job stays red until the exercises are solved. The answer checks run on the `student/answers` branch.
 
 ## Recommended order
 
