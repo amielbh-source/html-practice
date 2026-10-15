@@ -8,9 +8,9 @@ Assignments and class materials are in [Google Classroom](https://classroom.goog
 
 ## Lab 01 — HTML Fundamentals
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/morbargig/html-practice/blob/main/labs/lab-01-html-fundamentals.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/morbargig/html-practice/blob/main/labs/lesson-01/lab-01-html-fundamentals.ipynb)
 
-Notebook: [lab-01-html-fundamentals.ipynb](lab-01-html-fundamentals.ipynb)
+Notebook: [lesson-01/lab-01-html-fundamentals.ipynb](lesson-01/lab-01-html-fundamentals.ipynb)
 
 Topics:
 
